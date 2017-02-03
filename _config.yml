@@ -13,16 +13,18 @@ baseurl: /resume #change it according to your repository name
 
 
 #Profile information
-name: Alan Doe
+name: Mohamed Burhanudeen
 tagline: Full Stack Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+#http://i.picasion.com/resize85/ae82789949292ec78f3ddc4262d12db0.jpg // my photo URL
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
+email: bern2727@gmail.com
+phone: +6 017 376 5314
 website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
+linkedin: burhan3759
+github: burhan3759
 twitter: '@webjeda'
 
 #Update all the sections by editing the files inside _includes folder.
