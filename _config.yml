@@ -14,7 +14,7 @@ baseurl: /resume #change it according to your repository name
 
 #Profile information
 name: Mohamed Burhanudeen
-tagline: Full Stack Developer
+tagline: Software Developer
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #http://i.picasion.com/resize85/ae82789949292ec78f3ddc4262d12db0.jpg // my photo URL
@@ -22,9 +22,8 @@ pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and pro
 #sidebar links
 email: mohd.burhan@zoho.com
 phone: +6 017 376 5314
-website: blog.webjeda.com #do not add http://
+website: https://burhan3759.github.io
 linkedin: burhan3759
 github: burhan3759
-twitter: '@webjeda'
 
 #Update all the sections by editing the files inside _includes folder.
