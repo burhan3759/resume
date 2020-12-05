@@ -1,7 +1,7 @@
 
 title: My Resume
 url: 'http://webjeda.com'
-baseurl: /resume #change it according to your repository name
+baseurl: resume.burhan3759.com #change it according to your repository name. if use custom domain, change it with custom domain
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
